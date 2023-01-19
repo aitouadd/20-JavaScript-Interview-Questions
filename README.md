@@ -32,6 +32,8 @@ A JavaScript function is defined with the function keyword, followed by a name, 
 
 ***7 - What is an event in JavaScript and how do you handle them?***
 
+Events are actions or occurrences that happen in the system you are programming, which the system tells you about so your code can react to them. For example, if the user clicks a button on a webpage, you might want to react to that action by displaying an information box
+
 What is an Event ? JavaScript's interaction with HTML is handled through events that occur when the user or the browser manipulates a page. When the page loads, it is called an event. When the user clicks a button, that click too is an event.
 
 
